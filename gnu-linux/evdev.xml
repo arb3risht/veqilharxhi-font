@@ -1,0 +1,25 @@
+<layout>
+      <configItem>
+        <name>al</name>
+        
+        <shortDescription>sq</shortDescription>
+        <description>Albanian</description>
+        <languageList>
+          <iso639Id>alb</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>plisi</name>
+            <description>Albanian (Plisi)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>veqilharxhi</name>
+            <description>Albanian (Veqilharxhi)</description>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
